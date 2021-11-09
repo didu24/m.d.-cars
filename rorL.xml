@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.mdcars.eu.pn/lamborghini.html</title>
+  <link>http://www.mdcars.eu.pn/lamborghini.html</link>
+
+<item>
+     <link>http://www.mdcars.eu.pn/lamborghini.html</link>
+     <title>M.D.CARS LAMBORGHINI</title>
+     <description>History about exotic cars lamborghini</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.mdcars.eu.pn/index.html</link>
+     <title>M.D.CARS</title>
+     <description>web site about exotic cars lamborghini and ferrari</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.mdcars.eu.pn/ferrari.html</link>
+     <title>M.D.CARS</title>
+     <description>web site about exotic cars lamborghini and ferrari</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
